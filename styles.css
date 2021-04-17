@@ -1,0 +1,44 @@
+html,
+.body{
+    background-color: #008b8b;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS';
+    
+}
+
+
+.container-fluid {
+  padding-top: 25px;
+  padding-left: 250px;
+  padding-right: 150px;
+  
+}
+
+.center {
+  margin: auto;
+  margin-top: 25px;
+  width: 50%;
+  border: 5px solid black;
+  padding: 10px;
+  
+}
+
+.header {
+  padding: 25px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+} 
